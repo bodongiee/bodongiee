@@ -1,5 +1,5 @@
 # Bodongiee (Kwon Bo Sung)
-
+- **Contact** : bskwon0526@kaist.ac.kr
 # Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
 -  **Bachelor's degree in Mechanical Engineering (2021 - present)**
