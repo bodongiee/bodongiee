@@ -1,4 +1,4 @@
-Bosungg(Kwon Bo Sung)
+# Bodongiee (Kwon Bo Sung)
 
 # Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
@@ -30,8 +30,23 @@ Bosungg(Kwon Bo Sung)
 - Undergraduate Resarch Student (2021 summer semester)
 - Studied Trajectory Optimization of Wheeled Mobile Robots (WMR) Using Model Predictive Control (MPC)
 
+<br>
 
 # AWARDS
 ### Competetion
 - 1st place : 20th International Robot Olympiad in Manila, Philippines (Mission Challenge Category) (2018)
 - 4th place : 20th International Robot Olympiad in Manila, Philippines (Creative Category) (2018)
+
+### Hackathon
+- 3rd place : Yongin Upcycling Makerthon (2021)
+- 1st place : Dongtan ICT Makerthon (2018)
+- 4th place : Industrial Revolution Hackathon (2018)
+- 4th place : Harmony Hackathon (2018)
+
+<br>
+
+# Technical Skills
+- Programmin & Control Tools : Python, C/C++, Java, MATLAB/Simulink, ROS
+- Development Env : Git, Docker
+
+
