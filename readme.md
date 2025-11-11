@@ -22,7 +22,7 @@
 - Visual SLAM intermediate course
 
 ### Visual Intelligence Lab in KAIST
-- Undergraduate Research Student (2022 summer semester)
+- **Undergraduate Research Student (2022 summer semester)**
 - Studied MVSS-Net
 
 ### DRCD Lab in KAIST
