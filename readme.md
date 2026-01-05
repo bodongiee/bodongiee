@@ -26,12 +26,9 @@
 - Studied MVSS-Net
 
 ### DRCD Lab in KAIST
-- **Undergraduate Research Student (2021 winter semester)**
-- Performance Analysis and Optimization of UDP Communication Between MATLAB computer and Simulink
-
-### DRCD Lab in KAIST
-- **Undergraduate Resarch Student (2021 summer semester)**
+- **Undergraduate Research Student (2021 summer, winter semester)**
 - Studied Trajectory Optimization of Wheeled Mobile Robots (WMR) Using Model Predictive Control (MPC)
+- Performance Analysis and Optimization of UDP Communication Between MATLAB computer and Simulink
 
 <br>
 
