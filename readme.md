@@ -1,6 +1,6 @@
 # Bodongiee (Kwon Bo Sung)
 - **Contact** : bskwon0526@kaist.ac.kr
-# Education
+# :school: Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
 -  **Bachelor's degree in Mechanical Engineering (2021 - present)**
 - Bachelor's minor in School of Computing (2021 - present)
@@ -11,10 +11,15 @@
 
 <br>
 
-# Experience
+# :books: Research Experience
 
-### (Soon) KIST (Korea Institute of Science and Technology)
+### [Soon] KIST (Korea Institute of Science and Technology)
 - **Student Research intern (2026 March ~)**
+
+### [Now] Smart Manufacturing Lab in KAIST
+- **Undergradyate Research Student (2025 winter semester)**
+- Studying RL (policy gradient, basic theory)
+- Training bipedal robot walking on ground (Researching how to improve performance)
 
 ### Urban Robotics Lab in KAIST
 - **Undergraduate Research Student (2025 summer semester)**
@@ -25,14 +30,14 @@
 - **Undergraduate Research Student (2022 summer semester)**
 - Studied MVSS-Net
 
-### DRCD Lab in KAIST
+### Dynamic Robot Control and Design Lab in KAIST
 - **Undergraduate Research Student (2021 summer, winter semester)**
 - Studied Trajectory Optimization of Wheeled Mobile Robots (WMR) Using Model Predictive Control (MPC)
 - Performance Analysis and Optimization of UDP Communication Between MATLAB computer and Simulink
 
 <br>
 
-# AWARDS
+# 🏆 AWARDS
 ### Competetion
 - **1st place** : 20th International Robot Olympiad in Manila, Philippines (Mission Challenge Category) (2018)
 - **4th place** : 20th International Robot Olympiad in Manila, Philippines (Creative Category) (2018)
@@ -45,7 +50,7 @@
 
 <br>
 
-# Technical Skills
+# 🖥️ Technical Skills
 - **Programmin & Control Tools** : Python, C/C++, Java, MATLAB/Simulink, ROS
 - **Development Env** : Git, Docker
 
