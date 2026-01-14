@@ -16,7 +16,7 @@
 ### [Soon] KIST (Korea Institute of Science and Technology)
 - **Student Research intern (2026 March ~)**
 
-### [Now] Smart Manufacturing Lab in KAIST
+### [Now] Smart Manufacturing Systems Lab in KAIST
 - **Undergradyate Research Student (2025 winter semester)**
 - Studying RL (policy gradient, basic theory)
 - Training bipedal robot walking on ground (Researching how to improve performance)
