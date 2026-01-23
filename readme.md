@@ -1,6 +1,6 @@
 # Bodongiee (Kwon Bo Sung)
 - **Contact** : bskwon0526@kaist.ac.kr
-# :school: Education
+# Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
 -  **Bachelor's degree in Mechanical Engineering (2021 - present)**
 - Bachelor's minor in School of Computing (2021 - present)
@@ -11,7 +11,7 @@
 
 <br>
 
-# :books: Research Experience
+# Research Experience
 
 ### [Soon] KIST (Korea Institute of Science and Technology)
 - **Student Research intern (2026 March ~)**
@@ -37,7 +37,7 @@
 
 <br>
 
-# 🏆 AWARDS
+# AWARDS
 ### Competetion
 - **1st place** : 20th International Robot Olympiad in Manila, Philippines (Mission Challenge Category) (2018)
 - **4th place** : 20th International Robot Olympiad in Manila, Philippines (Creative Category) (2018)
@@ -50,7 +50,7 @@
 
 <br>
 
-# 🖥️ Technical Skills
+# Technical Skills
 - **Programmin & Control Tools** : Python, C/C++, Java, MATLAB/Simulink, ROS
 - **Development Env** : Git, Docker
 
