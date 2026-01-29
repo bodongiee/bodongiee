@@ -3,6 +3,7 @@
 # Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
 -  **Bachelor's degree in Mechanical Engineering (2021 - present)**
+    - Colleage of Engineering **Dean's List** (2025 Fall Semester)
 - Bachelor's minor in School of Computing (2021 - present)
 
 ### Korea Digital Media High Scool
