@@ -1,9 +1,9 @@
 # Bodongiee (Kwon Bo Sung)
 - **Contact** : bskwon0526@kaist.ac.kr
+- **Phone Number** : 010-9230-9457
 # Education
 ### KAIST (Korea Advanced Institute of Science and Technology)
 -  **Bachelor's degree in Mechanical Engineering (2021 - present)**
-    - Colleage of Engineering **Dean's List** (2025 Fall Semester)
 - Bachelor's minor in School of Computing (2021 - present)
 
 ### Korea Digital Media High Scool
@@ -14,13 +14,14 @@
 
 # Research Experience
 
-### [Soon] KIST (Korea Institute of Science and Technology)
+### [Now] KIST (Korea Institute of Science and Technology)
 - **Student Research intern (2026 March ~)**
 
-### [Now] Smart Manufacturing Systems Lab in KAIST
+### Smart Manufacturing Systems Lab in KAIST
 - **Undergradyate Research Student (2025 winter semester)**
 - Studying RL (policy gradient, basic theory)
 - Training bipedal robot walking on ground (Researching how to improve performance)
+- Applay MPC with kinematic MPC, jacobian freeze to M1509 robot Arm
 
 ### Urban Robotics Lab in KAIST
 - **Undergraduate Research Student (2025 summer semester)**
@@ -29,7 +30,7 @@
 
 ### Visual Intelligence Lab in KAIST
 - **Undergraduate Research Student (2022 summer semester)**
-- Studied MVSS-Net
+- Studied MVSS-Net and construct net
 
 ### Dynamic Robot Control and Design Lab in KAIST
 - **Undergraduate Research Student (2021 summer, winter semester)**
