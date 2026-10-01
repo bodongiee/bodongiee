@@ -14,8 +14,11 @@
 
 # Research Experience
 
-### [Now] KIST (Korea Institute of Science and Technology)
-- **Student Research intern (2026 March ~)**
+### Precision Mechatronics Lab in KAIST
+- **Undergradyate Research Student (2026 Fall semester)**
+
+### KIST (Korea Institute of Science and Technology)
+- **Student Research intern (2026 March ~ September)**
 
 ### Smart Manufacturing Systems Lab in KAIST
 - **Undergradyate Research Student (2025 winter semester)**
